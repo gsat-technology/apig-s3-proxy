@@ -1,4 +1,4 @@
-#apig-s3-proxy
+# apig-s3-proxy
 
 Incomplete Cloudformation implementation based on this AWS walkthrough: [Create an API as an Amazon S3 Proxy](http://docs.aws.amazon.com/apigateway/latest/developerguide/integrating-api-with-aws-services-s3.html)
 
